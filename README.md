@@ -13,21 +13,8 @@ a *solution* that resolves the described task.
 </p>
 
 ## Set Up
-For evaluation, you should install the following python packages.
-```angular2html
-python>3.9
-scikit-learn
-pandas
-tqdm
-openai
-tiktoken
-PyMuPDF
-torch
-transformers
-google.generativeai
-openpyxl
-anthropic
-Pillow
+For evaluation, you should install the Python packages in the requirment.txt file.
+ 
 ```
 
 ## Usage
