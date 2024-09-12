@@ -23,40 +23,13 @@ For evaluation, you should install the Python packages in the requirment.txt fil
 4. For evaluation on data modeling task, refer to [./data_modeling/readme.md](https://github.com/LiqiangJing/DSBench/blob/main/data_modeling/readme.md).
 
 ## Results
-| Framework        | Model        | Task-level Accuracy /% | Cost / $ | Inference Time / min | Competition-level Accuracy /% |
-| ---------------- | ------------ | ---------------------- | -------- | -------------------- | ----------------------------- |
-| **Model-only**   |              |                        |          |                      |                               |
-|                  | LLAVA        | 11.59                  | -        | 106.0                | 7.01                          |
-|                  | LLaMA-8b     | 16.95                  | -        | 130.3                | 10.60                         |
-|                  | LLaMA-70b    | 23.33                  | -        | 422.6                | 14.95                         |
-|                  | GPT-3.5      | 20.39                  | 1.95     | 27.6                 | 11.85                         |
-|                  | GPT-4        | 25.97                  | 117.90   | 162.7                | 17.21                         |
-|                  | GPT-4o       | 28.11                  | 67.56    | 115.5                | 19.26                         |
-|                  | GPT-4o mini  | 23.82                  | 2.21     | 87.1                 | 14.95                         |
-|                  | Claude       | 6.01                   | 64.98    | 5188.8               | 3.83                          |
-|                  | Gemini       | 31.55                  | 18.26    | 5331.7               | 24.81                         |
-| ---------------- | ------------ | ---------------------- | -------- | -------------------- | ----------------------------- |
-| **AutoGen**      |              |                        |          |                      |                               |
-|                  | LLaMA-8b     | 10.73                  | -        | 221.7                | 6.05                          |
-|                  | LLaMA-70B    | 21.89                  | -        | 762.9                | 13.64                         |
-|                  | GPT-3.5      | 20.82                  | 5.60     | 184.8                | 12.80                         |
-|                  | GPT-4        | 30.69                  | 105.89   | 529.5                | 22.68                         |
-|                  | GPT-4o       | 34.12                  | 114.05   | 286.0                | 26.72                         |
-|                  | GPT-4o mini  | 28.11                  | 2.95     | 379.6                | 21.01                         |
-| ---------------- | ------------ | ---------------------- | -------- | -------------------- | ----------------------------- |
-| **Code Interpreter** |          |                        |          |                      |                               |
-|                  | GPT-3.5      | 11.16                  | 21.39    | 197.2                | 8.23                          |
-|                  | GPT-4        | 23.82                  | 128.83   | 334.5                | 22.65                         |
-|                  | GPT-4o       | 23.82                  | 87.04    | 236.1                | 22.65                         |
-|                  | GPT-4o mini  | 17.81                  | 16.54    | 233.2                | 14.65                         |
-
 
 <p align="center">
 <img src="figures/result1.png">
 </p>
 
 <p align="center">
-<img src="figures/result2.png">
+<img src="figures/result2.png" width="500">
 </p>
 
 ##  Disclaimer
