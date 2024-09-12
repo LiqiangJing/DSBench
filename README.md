@@ -9,9 +9,7 @@ Given a *task instruction (may contain image and table)* and
 a *solution* that resolves the described task.
 
 <p align="center">
-<img src="figures/overview_new.png">
-  <iframe src="figures/overview_new.pdf"></iframe>
-
+<img src="figures/overview.svg">
 </p>
 
 ## Set Up
