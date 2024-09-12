@@ -25,11 +25,11 @@ For evaluation, you should install the Python packages in the requirment.txt fil
 ## Results
 
 <p align="center">
-<img src="figures/result1.png">
+<img src="figures/result1.svg">
 </p>
 
 <p align="center">
-<img src="figures/result2.png" width="600">
+<img src="figures/result2.svg" width="600">
 </p>
 
 ##  Disclaimer
