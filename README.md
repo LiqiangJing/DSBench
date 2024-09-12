@@ -13,7 +13,7 @@ a *solution* that resolves the described task.
 </p>
 
 ## Set Up
-For evaluation, you should install the Python packages in the requirment.txt file.
+For evaluation, you should install the Python packages in the requirments.txt file.
 
 ## Usage
 
