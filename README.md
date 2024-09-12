@@ -10,6 +10,8 @@ a *solution* that resolves the described task.
 
 <p align="center">
 <img src="figures/overview_new.png">
+  <iframe src="figures/overview_new.pdf"></iframe>
+
 </p>
 
 ## Set Up
