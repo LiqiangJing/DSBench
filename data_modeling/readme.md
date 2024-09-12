@@ -31,9 +31,9 @@ To simplify, you can use the [Kaggle API](https://www.kaggle.com/docs/api) for d
 1. Unzip data.zip into the current path.
 3. Set your OpenAI key in eval_code_interpreter.ipynb.
 4. Run eval_code_interpreter.ipynb to evaluate the performance.
-5. '''
+5. ...
    python score4each_com.py
-   '''
+   ...
     Computer the performance of the model on each competition with the corresponding metric, such as accuracy. Save the results in the directory `./save_performance/gpt-3.5-turbo-0125`.
 7. python show_result.py
    Show the performance of the model based on the results generated from the last step.
