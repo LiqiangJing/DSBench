@@ -14,8 +14,6 @@ a *solution* that resolves the described task.
 
 ## Set Up
 For evaluation, you should install the Python packages in the requirment.txt file.
- 
-```
 
 ## Usage
 
