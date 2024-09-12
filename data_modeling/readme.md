@@ -36,6 +36,6 @@ To simplify, you can use the [Kaggle API](https://www.kaggle.com/docs/api) for d
    ```
     Computer the performance of the model on each competition with the corresponding metric, such as accuracy. Save the results in the directory `./save_performance/gpt-3.5-turbo-0125`.
 7. ```bash
-   python show_results.py
+   python show_result.py
    ```
    Show the performance of the model based on the results generated from the last step.
