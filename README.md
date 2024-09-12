@@ -29,7 +29,7 @@ For evaluation, you should install the Python packages in the requirment.txt fil
 </p>
 
 <p align="center">
-<img src="figures/result2.png" width="650">
+<img src="figures/result2.png" width="600">
 </p>
 
 ##  Disclaimer
