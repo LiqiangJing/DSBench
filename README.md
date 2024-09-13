@@ -1,5 +1,5 @@
 # DSBench
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
+[![project page](https://img.shields.io/badge/Made%20with-Python-red.svg)](https://liqiangjing.github.io/dsbench.github.io/)
 [![arxiv](https://img.shields.io/badge/arXiv-2409.07703-b31b1b.svg)](https://arxiv.org/abs/2409.07703)
 
 ## Overview
