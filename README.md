@@ -1,5 +1,5 @@
 # DSBench
-[![project page](https://img.shields.io/badge/Homepage-DSBench-%3Ccolor%3E)](https://liqiangjing.github.io/dsbench.github.io/)
+[![project page](https://img.shields.io/badge/Homepage-DSBench-blue)](https://liqiangjing.github.io/dsbench.github.io/)
 [![arxiv](https://img.shields.io/badge/arXiv-2409.07703-b31b1b.svg)](https://arxiv.org/abs/2409.07703)
 
 ## Overview
