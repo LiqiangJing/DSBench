@@ -48,7 +48,14 @@ The dataset provided is intended solely for educational and research purposes, w
 ##  Citation
 If you find our work helpful, please use the following citations.
 ```
-@inproceedings{
+@misc{jing2024dsbenchfardatascience,
+      title={DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?}, 
+      author={Liqiang Jing and Zhehui Huang and Xiaoyang Wang and Wenlin Yao and Wenhao Yu and Kaixin Ma and Hongming Zhang and Xinya Du and Dong Yu},
+      year={2024},
+      eprint={2409.07703},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2409.07703}, 
 }
 ```
 
