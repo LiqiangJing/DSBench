@@ -1,4 +1,6 @@
 # DSBench
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
+[![arxiv](https://img.shields.io/badge/arXiv-2311.01477-b31b1b.svg)](https://arxiv.org/abs/2409.07703)
 
 ## Overview
 DSBench is a benchmark for evaluating data science agents with 
