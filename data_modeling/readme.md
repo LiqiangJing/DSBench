@@ -20,7 +20,7 @@ To simplify, you can use the [Kaggle API](https://www.kaggle.com/docs/api) for d
 ### Process the downloaded file with our script.
 
 
-### For simplicity, we also provide the [processed files](https://drive.google.com/drive/folders/19t04HBiM--Ecz9D8Outpz_VW2nJcK8eP?usp=drive_link).
+### For simplicity, we also provide the processed files by [google drive](https://drive.google.com/drive/folders/19t04HBiM--Ecz9D8Outpz_VW2nJcK8eP?usp=drive_link) and [huggingface](https://huggingface.co/datasets/liqiang888/DSBench/blob/main/data_modeling/data.zip).
 
 
 *Non-Infringement: The pre-processed data provided by us is intended solely for educational and research purposes. We do not claim ownership of the original data, and any use of this data should respect the rights of the original creators. Users are responsible for ensuring that their use of the data does not infringe on any copyrights or other intellectual property rights.*
