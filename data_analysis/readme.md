@@ -5,6 +5,8 @@ eval_GPT.ipynb: A sample code to evaluate GPT series models on our data analysis
 
 ./save_process/gpt-3.5-turbo-0125: This is evaluation results of gpt-3.5-turbo-0125. It recodes the cost, predicted answer, consuming time.
 
+If you want to evaluate AutoGen with eva_autogen_gpt.ipynb, please install all required [environments](https://microsoft.github.io/autogen/docs/installation/).
+
 ## How to get the data
 
 ### Download all competations
