@@ -8,6 +8,7 @@ Code Interpreter with GPT series models on our data modeling task.
 Interpreter with gpt-3.5-turbo-0125. It recodes the cost, 
 predicted answer, consuming time....
 
+Before evaluating AutoGen with eva_autogen_gpt.ipynb, please install all required [environments](https://microsoft.github.io/autogen/docs/installation/).
 
 ### Download all competations
 Please download all competations from the 
