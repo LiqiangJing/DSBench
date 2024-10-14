@@ -20,8 +20,8 @@ parser.add_argument('--value', type=str, default="place_id")
 
 args = parser.parse_args()
 
-actual = pd.read_csv(os.path.join(args.path, args.name, args.answer_file))
-submission = pd.read_csv(os.path.join(args.path, args.name, args.predict_file))
+actual = pd.read_csv(args.answer_file)
+submission = pd.read_csv(args.predict_file)
 def mean_spearmanr(y_true, y_pred):
     """
     计算每列的Spearman's rank correlation coefficient，并取平均值

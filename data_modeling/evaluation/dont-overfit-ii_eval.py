@@ -19,8 +19,8 @@ parser.add_argument('--value', type=str, default="target")
 
 args = parser.parse_args()
 
-actual = pd.read_csv(os.path.join(args.path, args.name, args.answer_file))
-submission = pd.read_csv(os.path.join(args.path, args.name, args.predict_file))
+actual = pd.read_csv(args.answer_file)
+submission = pd.read_csv(args.predict_file)
 
 
 # 计算平均绝对误差

@@ -19,8 +19,8 @@ parser.add_argument('--value', type=str, default="count")
 
 args = parser.parse_args()
 
-answers = pd.read_csv(os.path.join(args.path, args.name, args.answer_file))
-predictions = pd.read_csv(os.path.join(args.path, args.name, args.predict_file))
+answers = pd.read_csv(args.answer_file)
+predictions = pd.read_csv(args.predict_file)
 
 performance = rmsle(predictions, answers)
 

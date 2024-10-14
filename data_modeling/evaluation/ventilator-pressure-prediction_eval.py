@@ -21,8 +21,8 @@ parser.add_argument('--value', type=str, default="pressure")
 args = parser.parse_args()
 
 
-answers = pd.read_csv(os.path.join(args.path, args.name, args.answer_file))
-predictions = pd.read_csv(os.path.join(args.path, args.name, args.predict_file))
+answers = pd.read_csv(args.answer_file)
+predictions = pd.read_csv(args.predict_file)
 
 answers.sort_values(by=['id'])
 predictions.sort_values(by=['id'])
