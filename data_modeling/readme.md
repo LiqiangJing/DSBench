@@ -29,7 +29,7 @@ To simplify, you can use the [Kaggle API](https://www.kaggle.com/docs/api) for d
 
 
 ## How to evaluate CodeInterpreter on data modeling tasks
-1. Unzip data.zip into the current path.
+1. Unzip data.zip and save_performance.zip into the current path.
 3. Set your OpenAI key in eval_code_interpreter.ipynb.
 4. Run eval_code_interpreter.ipynb to evaluate the performance.
 5. ```bash
